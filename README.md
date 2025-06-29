@@ -53,3 +53,14 @@
 6. How to make lambda expressions more concise.
 7. What a higher-order function is.
 8. How to use the repeat() function.
+
+
+## Generics, objects, and extensions
+### What you'll learn
+1. How to define a generic type parameter for a class.
+2. How to instantiate a generic class.
+3. When to use enum and data classes.
+4. How to define a generic type parameter that must implement an interface.
+5. How to use scope functions to access class properties and methods.
+6. How to define singleton objects and companion objects for a class.
+7. How to extend existing classes with new properties and methods.
