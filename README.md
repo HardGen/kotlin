@@ -31,7 +31,7 @@
 
 **Polymorphism**. The word is an adaptation of the Greek root poly-, which means many, and -morphism, which means forms. Polymorphism is the ability to use different objects in a single, common way. For example, when you connect a Bluetooth speaker to your mobile phone, the phone only needs to know that there's a device that can play audio over Bluetooth. However, there are a variety of Bluetooth speakers that you can choose from and your phone doesn't need to know how to work with each of them specifically.
 
-## What you'll learn
+### What you'll learn
 1. An overview of OOP.
 2. What classes are.
 3. How to define a class with constructors, functions, and properties.
@@ -41,3 +41,15 @@
 7. How to override properties and functions.
 8. What visibility modifiers are.
 9. What a delegate is and how to use the by delegate.
+
+
+## Use function types and lambda expressions in Kotlin
+### What you'll learn
+1. How to define a function with lambda syntax.
+2. How to store functions in variables.
+3. How to pass functions as arguments to other functions.
+4. How to return functions from other functions.
+5. How to use nullable function types.
+6. How to make lambda expressions more concise.
+7. What a higher-order function is.
+8. How to use the repeat() function.
